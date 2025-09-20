@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled files
+*.js.map
+*.d.ts.map
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Optional: Không ignore dist nếu muốn show kết quả biên dịch
+# dist/
