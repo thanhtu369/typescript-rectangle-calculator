@@ -9,4 +9,4 @@ function isPrime(num: number): boolean {
 
 console.log(isPrime(2));  
 console.log(isPrime(15)); 
-console.log(isPrime(17)); 
+console.log(isPrime(15)); 
